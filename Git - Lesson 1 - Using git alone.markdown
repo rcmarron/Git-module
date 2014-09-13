@@ -1,9 +1,11 @@
-#Git - local repository
+#Git - using git alone
 __Goal:__ To teach the basics of git and why git is useful for an individual to use. This does not touch any of the server pieces.
 
 __Overview:__ Throughout the lesson, we use examples from writing a paper to explain a git repository. Concepts explained are:
 * Why you want a versions control system
 * Git basics
+	* Directory
+	* Repository
 	* Git init
 	* Git add
 	* Commits and commit messages
@@ -21,7 +23,7 @@ __Teacher:__ Stand up if you have ever been writing an essay, and you decide a s
 
 __Students:__ [A bunch of the students stand up]
 
-__Teacher:__ Stay standing, if you have ever wanted to get that thing you erased back. Maybe you realized that a sentence in it was great, or maybe you realized you never should have erased it.
+__Teacher:__ Stay standing, if you have ever wanted to get the thing you erased back. Maybe you realized that one of the sentences was great, or maybe you realized you never should have erased any of it.
 
 __Students:__ [Some sit down]
 
@@ -58,6 +60,8 @@ __Teacher:__ Fortunately, some smart people invented "a version control system" 
 ## Git basics
 
 __Teacher:__ A version control system is a computer program. Its job is to create versions of your files without renaming them. There are many different types of version control systems. The one we are going to learn is "Git".
+
+__Teacher:__ A version control system runs on a 
 
 
 
